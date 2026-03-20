@@ -101,7 +101,7 @@ This demonstrates secure login using encrypted passwords stored in the database.
 ### 🎟️ JWT Token Generation
 After successful login, the server generates a JWT token used for authentication.
 
-![JWT Token](jwt-token-response.png-copy.png)
+![JWT Token](jwt-token-response.png-Copy.png)
 
 ---
 
