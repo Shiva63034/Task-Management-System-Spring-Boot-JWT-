@@ -87,7 +87,7 @@ src/main/java/com/shiva/shiva/
 ### 🔐 User Login (Without Password Encryption)
 This screenshot shows the basic login process before applying password encryption.
 
-![Login Without Encryption](login-without-encryption.png)
+![Login Without Encryption](login-without-encryption.png.png)
 
 ---
 
