@@ -80,7 +80,63 @@ src/main/java/com/shiva/shiva/
 - Deploy to cloud (AWS / Render)  
 
 ---
+---
 
+## 📸 API Outputs & Screenshots
+
+### 🔐 User Login (Without Password Encryption)
+This screenshot shows the basic login process before applying password encryption.
+
+![User Login Without Encryption](login-without-encryption.png)
+
+---
+
+### 🔐 User Login (With Password Encryption)
+This demonstrates secure login using encrypted passwords stored in the database.
+
+![User Login With Encryption](login-with-encryption.png)
+
+---
+
+### 🎟️ JWT Token Generation
+After successful login, the server generates a JWT token used for authentication.
+
+![JWT Token](jwt-token.png)
+
+---
+
+### 🛡️ Accessing Secure APIs Using JWT
+This shows how JWT token is used in the Authorization header to access protected endpoints.
+
+![JWT Authorization](jwt-auth.png)
+
+---
+
+### 📋 Get Tasks API
+Displays all tasks associated with a specific user.
+
+![Get Tasks](get-tasks.png)
+
+---
+
+### 🗄️ Database - Users Table
+Snapshot of the users table storing user details securely.
+
+![Users Table](users-table.png)
+
+---
+
+### 🗄️ Database - Tasks Table
+Snapshot of the tasks table storing task-related data.
+
+![Tasks Table](tasks-table.png)
+
+---
+
+### 📊 Project Summary
+Overview of the complete system including authentication and task management flow.
+
+![Project Summary](summary.png)
 ## 👨‍💻 Author
 **Eluri Siva**  
 🔗 GitHub: https://github.com/Shiva63034
