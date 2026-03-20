@@ -94,7 +94,7 @@ This screenshot shows the basic login process before applying password encryptio
 ### 🔐 User Login (With Password Encryption)
 This demonstrates secure login using encrypted passwords stored in the database.
 
-![User Login With Encryption](login-with-encryption.png)
+![User Login With Encryption](images/login-with-encryption.png))
 
 ---
 
