@@ -108,7 +108,7 @@ After successful login, the server generates a JWT token used for authentication
 ### 🛡️ Accessing Secure APIs Using JWT
 This shows how JWT token is used in the Authorization header to access protected endpoints.
 
-![JWT Authorization](jwet-authentication-check.png.png)
+![JWT Authorization](jwt-authentication-check.png.png)
 
 ---
 
