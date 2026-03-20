@@ -94,42 +94,42 @@ This screenshot shows the basic login process before applying password encryptio
 ### 🔐 User Login (With Password Encryption)
 This demonstrates secure login using encrypted passwords stored in the database.
 
-![User Login With Encryption](images/login-with-encryption.png))
+![User Login With Encryption](login-with-encryption.png.png))
 
 ---
 
 ### 🎟️ JWT Token Generation
 After successful login, the server generates a JWT token used for authentication.
 
-![JWT Token](jwt-token.png)
+![JWT Token](jwt-token-response.png-copy.png)
 
 ---
 
 ### 🛡️ Accessing Secure APIs Using JWT
 This shows how JWT token is used in the Authorization header to access protected endpoints.
 
-![JWT Authorization](jwt-auth.png)
+![JWT Authorization](jwet-authentication-check.png.png)
 
 ---
 
 ### 📋 Get Tasks API
 Displays all tasks associated with a specific user.
 
-![Get Tasks](get-tasks.png)
+![Get Tasks](get-tasks.api.png.png)
 
 ---
 
 ### 🗄️ Database - Users Table
 Snapshot of the users table storing user details securely.
 
-![Users Table](users-table.png)
+![Users Table](users-table.png.png)
 
 ---
 
 ### 🗄️ Database - Tasks Table
 Snapshot of the tasks table storing task-related data.
 
-![Tasks Table](tasks-table.png)
+![Tasks Table](tasks-table.png.png)
 
 ---
 
